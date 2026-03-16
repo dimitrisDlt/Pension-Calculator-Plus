@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="logo.svg">assets/logo.svg</file>
+        <file alias="moon">assets/moon-dark-theme-svgrepo-com.png</file>
+        <file alias="sun">assets/sun-light-theme-svgrepo-com.png</file>
+        <file alias="settings">assets/settings-svgrepo-com.png</file>
+        <file alias="moon.svg">assets/moon-svgrepo-com.svg</file>
+        <file alias="sun.svg">assets/sun-alt-svgrepo-com.svg</file>
+        <file alias="settings.svg">assets/settings-svgrepo-com.svg</file>
+        <file alias="newlogo">assets/newlogo.svg</file>
+    </qresource>
+</RCC>
