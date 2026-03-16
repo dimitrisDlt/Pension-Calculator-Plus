@@ -25,17 +25,17 @@
 
 [Qt Open Source Binaries Installer](https://www.qt.io/development/download-qt-installer-oss)
 
-Κατόπιν εκτελείτε την εγκατάσταση με βάσει τις οδηγίες που παρέχονται από τον installer, ωστόσο θα πρέπει να προσθέσετε κάποια extensions/additional libraries:
+Κατόπιν εκτελείτε την εγκατάσταση με βάσει τις οδηγίες που παρέχονται από τον installer, ωστόσο θα πρέπει να προσθέσετε κάποια extensions/additional libraries:  
 
-Extensions/Qt PDF
-Additional Libraries/Qt Multimedia
-Additional Libraries/Qt Quick 3D
-Additional Libraries/Qt Quick Timeline
-Additional Libraries/Qt Shader Tools
-Build Tools/CMake
-Build Tools/Ninja
-
-Αν και συνήθως είναι προεπιλεγμένα από τον installer.
+Extensions/Qt PDF  
+Additional Libraries/Qt Multimedia  
+Additional Libraries/Qt Quick 3D  
+Additional Libraries/Qt Quick Timeline  
+Additional Libraries/Qt Shader Tools  
+Build Tools/CMake  
+Build Tools/Ninja  
+  
+Αν και συνήθως είναι προεπιλεγμένα από τον installer.  
 
 Η εφαρμογή Qt Installer θα εγκαταστήσει αυτομάτως το περιβάλλον Qt Creator και όλες τις απαραίτητες βιβλιοθήκες για να εκτελεστεί το πρόγραμμα.
 
